@@ -1,3 +1,3 @@
 # test
 ![Image](Image/ImportPraica.gif)
-![Image](Image/oformlenie pacienta.gif)
+![Image](Image/oformleniepacienta.gif)
