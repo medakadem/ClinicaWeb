@@ -27,3 +27,4 @@
     - Сохранить
 
     ![Image](Image/UslugiKratkii.gif)
+    ![Image](Image/UslugiKratkiiProtokol.gif)
