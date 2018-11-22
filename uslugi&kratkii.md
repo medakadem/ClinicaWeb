@@ -30,5 +30,5 @@
 ![Image](Image/UslugiKratkii.gif)
 - Протокол 
 ![Image](Image/UslugiKratkiiProtokol.gif)
-- Анализ 
+- Анализы 
 ![Image](Image/UslugiKratkiiAnaliz.gif)
