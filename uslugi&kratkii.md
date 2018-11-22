@@ -25,6 +25,10 @@
     - Материалы
     - Выбранные материалы
     - Сохранить
-
-    ![Image](Image/UslugiKratkii.gif)
-    ![Image](Image/UslugiKratkiiProtokol.gif)
+    
+- Пакет
+![Image](Image/UslugiKratkii.gif)
+- Протокол 
+![Image](Image/UslugiKratkiiProtokol.gif)
+- Анализ 
+![Image](Image/UslugiKratkiiAnaliz.gif)
