@@ -9,3 +9,4 @@
 ![Image](Image/Specializacii.gif)
 ![Image](Image/Kliniki.gif)
 ![Image](Image/Kabinet.gif)
+![Image](Image/Analizu.gif)
