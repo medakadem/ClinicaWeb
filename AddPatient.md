@@ -13,3 +13,4 @@
 ![Image](Image/Laboratorii.gif)
 ![Image](Image/Napravivshie.gif)
 ![Image](Image/Kontragentu.gif)
+![Image](Image/TipuObrashenii.gif)
