@@ -7,3 +7,4 @@
 ![Image](Image/UslugiKratkiiAnaliz.gif)
 ![Image](Image/polzovateli.gif)
 ![Image](Image/Specializacii.gif)
+![Image](Image/Kliniki.gif)
