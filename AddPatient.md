@@ -14,3 +14,4 @@
 ![Image](Image/Napravivshie.gif)
 ![Image](Image/Kontragentu.gif)
 ![Image](Image/TipuObrashenii.gif)
+![Image](Image/PejatAnalizov.gif)
