@@ -23,3 +23,5 @@
      - Печать направления
 
      ![Image](Image/PejatAnalizov.gif)
+
+     ![Image](Image/PejatAnalizov1.gif)
