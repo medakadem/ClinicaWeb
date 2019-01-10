@@ -20,6 +20,7 @@
     - Добавление нового пациента
      ![Image](Image/oformleniepacienta.gif)
     - Добавление пациента в чёрный список
+    [https://demo.medakadem.com.ua/patients]
      ![Image](Image/AddPatientToBlackList.gif)
     Увидеть, что пациент уже в черном списке можно по значку в списке пациентов
      ![Image](Image/BL_PatientList.png)
