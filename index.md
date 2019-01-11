@@ -17,14 +17,9 @@
     - [Поиск пациента](https://medakadem.github.io/ClinicaWeb/PatientSearch "Поиск пациента") 
     - Добавление нового пациента
      ![Image](Image/oformleniepacienta.gif)
-    - Добавление пациента в чёрный список
-     ![Image](Image/AddPatientToBlackList.gif)
-    Увидеть, что пациент уже в черном списке можно по значку в списке пациентов
-     ![Image](Image/BL_PatientList.png)
-     а также в карточке пациента во вкладке "Подробнее о пациенте":
-     ![Image](Image/BL_PatientCard.png)
-    - [Оформление заказа](https://medakadem.github.io/ClinicaWeb/Order "Оформление заказа")
-    - Объединение карточек пациента
+    - [Добавление пациента в чёрный список](https://medakadem.github.io/ClinicaWeb/BlackList "Добавление пациента в чёрный список пациента")
+    - [Оформление заказа](https://medakadem.github.io/ClinicaWeb/Order "Оформление заказа")  
+    - [Объединение карточек пациентов](https://medakadem.github.io/ClinicaWeb/PatientIntegration "Объединение карточек пациентов")
     - Обновить информацию
     - Контекстное меню
       - Оформление заказа
@@ -69,18 +64,18 @@
     - Диспансерный (повторных визитов)
     - Менеджер
   - Справочники
-    - Типы обращений
-    - Контрагенты
-    - Направившие врачи
-    - Группы ролей
+    - [Типы обращений](https://medakadem.github.io/ClinicaWeb/TypeSurvey "Типы обращений")
+    - [Контрагенты](https://medakadem.github.io/ClinicaWeb/Contractor "Контрагенты")
+    - [Направившие врачи](https://medakadem.github.io/ClinicaWeb/ReferringDoctors "Направившие врачи")
+    - [Группы ролей](https://medakadem.github.io/ClinicaWeb/RoleGroup "Группы ролей")
     - Скидки
-    - Лаборатории
+    - [Лаборатории](https://medakadem.github.io/ClinicaWeb/Labs "Лаборатории")
     - Полисы СК
-    - Анализы
-    - Кабинеты
-    - Клиники
-    - Пользовватели
-    - Специализация врачей
+    - [Анализы](https://medakadem.github.io/ClinicaWeb/Analyzes "Анализы")  
+    - [Кабинеты](https://medakadem.github.io/ClinicaWeb/Rooms "Кабинеты")
+    - [Клиники](https://medakadem.github.io/ClinicaWeb/Clinic "Клиники")  
+    - [Пользователи](https://medakadem.github.io/ClinicaWeb/Users "Пользователи")
+    - [Специализации врачей](https://medakadem.github.io/ClinicaWeb/DoctorSpecialization "Специализации врачей")
   - Шаблоны
     - Шаблоны SMS
     - Печать документов
@@ -92,7 +87,7 @@
     - Прайс
     - Ценовые группы
     - Услуги (детальный)
-    - Услуги (краткий)
+    - [Услуги (краткий)](https://medakadem.github.io/ClinicaWeb/Price "Услуги (краткий)")
     - Материалы
-    - Импорт прайса
+    - [Импорт прайса](https://medakadem.github.io/ClinicaWeb/PriceImport&Export "Импорт прайса")
     - Разделы прайса
