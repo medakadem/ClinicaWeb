@@ -7,6 +7,7 @@
 | <a href="./reports">Отчёты</a>           | <a href="./ProtocolPechat">Печать протокола</a>  |  | <a href="./OnlinePrerecord">Запись через сайт</a>      |
 | <a href="./verification">Верификация</a>
 |<a href="./doctorsonline">Настройка врачей</a>
+|<a href="./count">Счет пациента</a>
 
 
 
