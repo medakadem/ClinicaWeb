@@ -13,7 +13,7 @@
 
 ## Для новых клиник
 
-1. <a href="./InitialConfiguration">Первичная настройка программы</a>
+1. <a href="./InitialConfiguration">Первичная настройка программы</a> 
 2. <a href="./Users">Подключение пользователей</a>
 3. <a href="./PriceImport&Export">Загрузка прайса</a>
 4. <a href="./DoctorSchedule">График работы персонала</a>
