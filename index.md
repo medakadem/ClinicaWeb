@@ -20,6 +20,7 @@
 5. <a href="./shablonypechati">Шаблоны печати (Протоколы/Анализы/Счета/Акты выполненных работ)</a>
 6. <a href="./shablonyprotokolov">Шаблоны врачей</a>
 7. <a href="./shablonysms">Шаблоны SMS информирования</a>
+8. <a href="./materials">Материальный учет</a>
 
 ## Содержание
 
