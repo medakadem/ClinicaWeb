@@ -8,6 +8,7 @@
 | <a href="./verification">Верификация</a> | <a href="./anamnez">Анамнез</a>
 |<a href="./doctorsonline">Настройка  пользователей</a>
 |<a href="./count">Счет пациента</a>
+|<a href="./PrerecordProcessing">Оформление предзаписи</a>
 
 
 
