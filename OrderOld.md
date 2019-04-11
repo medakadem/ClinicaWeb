@@ -25,5 +25,3 @@
 
 Далее нужно нажать кнопку "Сохранить".
 ![Image](Image/OrderSave.gif)
-
-<a href="./orderchanghes">Изменения в оформлении заказа</a>
