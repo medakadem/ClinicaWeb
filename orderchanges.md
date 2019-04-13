@@ -4,7 +4,7 @@
       <head>
       </head>
     <body>
-    <span style='color: red;'>Изменения вступят в силу в субботу, 13.04.2019.</span> 
+    <span style='color: red;'>Изменения вступят в силу в субботу, 15.04.2019.</span> 
     </body>
 </html>
 
