@@ -10,4 +10,4 @@
 
    ![Image](Image/PreRecord.gif)
 
-   <script>let show = false; let el = document.getElementById('myDiv');  function showText(){show = !show;if(show){el.style.cssText = 'display:block';}else{el.style.cssText = 'display:none'}console.log(show)};   </script>
+   <script>let show = false; let el = document.getElementById('myDiv');  function showText(){show = !show;if(show){el.style.cssText = 'display:block';}else{el.style.cssText = 'display:none'}</script>
