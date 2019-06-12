@@ -9,6 +9,7 @@
 |<a href="./doctorsonline">Настройка  пользователей</a>
 |<a href="./count">Счет пациента</a>
 |<a href="./PrerecordProcessing">Оформление предзаписи</a>
+|<a href="./analytics">Аналитика</a>
 
 
 
