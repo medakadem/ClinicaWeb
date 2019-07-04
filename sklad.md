@@ -16,6 +16,6 @@
     - Выберете кратную единицу измерения.
     - Остальные поля заполняются необязательно. Сумма считается автоматически из расчета цены за штуку и количества.
     - Нажмите на значок "дискета" над таблицей, чтобы сохранить все созданные строки.
-kug
+
 
 <script>let show = false; let el = document.getElementById('myDiv');  function showText(){show = !show;if(show){el.style.cssText = 'display:block';}else{el.style.cssText = 'display:none'}}</script> 
