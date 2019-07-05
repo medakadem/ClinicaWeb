@@ -4,7 +4,7 @@
 |:------------------|:------------------|:--------------------|:-----------------------|  
 | <a href="./PatientList">Список пациентов</a>  | <a href="./Doctor">Форма врача</a>       | <a href="./labsform">Форма лаборанта</a>     | <a href="./PreRecord">Предварительная запись</a> |  
 | <a href="./Order">Оформление заказа</a> | <a href="./PatientCard">Карточка пациента</a> | <a href="./analyzesnorm">Нормативы анализов</a>  | <a href="./IPtele">IP телефония</a>           |
-| <a href="./reports">Отчёты</a>           | <a href="./ProtocolPechat">Печать протокола</a>  |  | <a href="./OnlinePrerecord">Запись через сайт</a>      |
+| <a href="./reports">Отчёты</a>           | <a href="./ProtocolPechat">Печать протокола</a>  | <a href="./sklad">Склад ТМЦ</a> | <a href="./OnlinePrerecord">Запись через сайт</a>      |
 | <a href="./verification">Верификация</a> | <a href="./anamnez">Анамнез</a>
 |<a href="./doctorsonline">Настройка  пользователей</a>
 |<a href="./count">Счет пациента</a>
