@@ -6,4 +6,4 @@
 Увидеть, что пациент уже в черном списке можно по значку в списке пациентов
  ![Image](Image/BL_PatientList.png)
  а также в карточке пациента во вкладке "Подробнее о пациенте":
- ![Image](Image/BL_PatientCard.png)
+ ![Image](Image/bl.png)
