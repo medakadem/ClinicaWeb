@@ -2,7 +2,7 @@
 
 | Регистратура       | Врач              | Лаборант            | Call центр             | Управленченский учёт       |
 |:------------------|:------------------|:--------------------|:-----------------------|:-----------------------------|
-| <a href="./PatientList">Список пациентов</a>  | <a href="./Doctor">Форма врача</a>       | <a href="./labsform">Форма лаборанта</a>     | <a href="./PreRecord">Предварительная запись</a> | <a href="./doctorsonline">Настройка  пользователей</a> 
+| <a href="./PatientList">Список пациентов</a>  | <a href="./Doctor">Форма врача</a>       | <a href="./labsform">Форма лаборанта</a>     | <a href="./PreRecord">Предварительная запись</a> | <a href="./users">Настройка  пользователей</a> 
 | <a href="./Order">Оформление заказа</a> | <a href="./PatientCard">Карточка пациента</a> | <a href="./analyzesnorm">Нормативы анализов</a>  | <a href="./IPtele">IP телефония</a>           |<a href="./analytics">Аналитика загруженность врачей</a>
 | <a href="./reports">Отчёты</a>           | <a href="./ProtocolPechat">Печать протокола</a>  | <a href="./sklad">Склад ТМЦ</a> | <a href="./OnlinePrerecord">Запись через сайт</a>      |<a href="./UserPackages">Модуль зарплаты</a>
 | <a href="./verification">Верификация</a> | <a href="./anamnez">Анамнез</a> |  <a href="./nurse">Рабочее место медсестры</a>|  | <a href="./analyticsPrerecord">Аналитика предзаписи</a>
